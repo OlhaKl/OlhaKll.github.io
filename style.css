@@ -1,0 +1,368 @@
+﻿body{
+	background-image: url(http://picview.info/download/20150530/flower-patches-drawing-colorful-decoration-3840x2400.jpg);
+	background-size: cover;
+	background-color:#e5399a;
+	float: center;
+	background-attachment: fixed;
+}
+
+nav {
+	background-color: rgb(224, 255, 250);
+}
+* {
+	margin: 0 auto;
+	padding: 0;
+}
+
+header {
+	background-image: url(https://image.freepik.com/free-vector/no-translate-detected_6869-17.jpg);
+	width: 1092px;
+	background-color: #86CEFA;
+	min-height: 220px;
+}
+#foto {
+	margin: 0 auto;
+	height: 218px;
+	width: 139px;
+	float: left;
+	border-style: solid;
+    border-width: 1px 1px 1px 1px;
+	border-color: #e6b3fc;
+}
+#logokn  {
+	margin: 0 auto;
+	height: 168px;
+	width: 138px;
+	float: right;
+	float: top;
+	border-style: solid;
+    border-width: 1px 1px 1px 0px;
+	border-color: #e6b3fc;
+}
+#info {
+	margin: 0 auto;
+	height: 170px;
+	width: 951px;
+	float: top;
+	float: right;
+	border-color: #e6b3fc;
+	
+}
+#info1 {
+	margin: 0 auto;
+	height: 93px;
+	width: 550px;
+	float: left;
+	border-style: solid;
+    border-width: 1px 0px 0px 0px;
+	border-color: #e6b3fc;
+}
+#logotnty {
+	margin: 0 auto;
+	height: 93px;
+	width: 140px;
+	float: left;
+	border-style: solid;
+    border-width: 1px 0px 0px 0px;
+	border-color: #e6b3fc;
+}
+#logofis {
+	margin: 0 auto;
+	height: 93px;
+	width: 122px;
+	float: left;
+	border-style: solid;
+    border-width: 1px 0px 0px 0px;
+	border-color: #e6b3fc;
+	
+	
+}
+#info2 {
+	margin: 0 auto;
+	height: 74px;
+	width: 810px;
+	float: left;
+	border-style: solid;
+    border-width: 0px 0px 1px 0px;
+	
+	
+}
+#menu {
+	margin: 0 auto;
+	height: 49px;
+	width: 949px;
+	float: left;
+	border-style: solid;
+    border-width: 0px 1px 1px 1px;
+	border-color: #eee;
+}
+li {
+	float: center;
+	margin: 10px;
+}
+#menu { }
+#menu ul {
+	
+list-style:none; 
+text-align:center;
+ border-top:1px solid #eee; 
+ border-bottom:1px solid #eee; 
+ padding:15px 0 15px;
+ 
+ }
+#menu ul li {
+display:inline; 
+text-transform:uppercase; 
+padding:0 5px; 
+letter-spacing:1px; 
+}
+#menu ul li a { 
+text-decoration:none; 
+color:#eee; 
+}
+#menu ul li a:hover { 
+
+color:#25FFFF;
+} 
+h2 {
+	margin: 6px;
+	color: #eee;
+}
+h3 {
+	margin: 15px;
+	color: #eee;
+}
+#main {
+	margin: 6px;
+	width: 1000px;
+	border-width: 1px 0px 1px 0px;
+}
+#zagl {
+	margin: 0 auto;
+	height: 37px;
+	width: 850px;
+	float: left;
+	background-color: rgb(190, 25, 239);
+	
+}
+#m1 {
+	float: left;
+	margin-left: 50px;
+	color: #eee;
+}
+#b1 {
+    margin: 0 auto;
+	height: 100px;
+	width: 850px;
+	float: left;
+	background-color: rgba(50, 50, 60, 0.4);
+}
+#b2 {
+	margin: 0 auto;
+	height: 100px;
+	width: 850px;
+	float: left;
+	background-color: rgba(50, 50, 60, 0.4);
+	
+}
+#r1 {
+	
+	height: 624px;
+	width: 145px;
+	float: right;
+	margin-left: 5px;
+	background-color: rgba(50, 50, 60, 0.4);
+}
+#r6 {
+	
+	height: 964px;
+	width: 145px;
+	float: right;
+	margin-left: 5px;
+	background-color: rgba(50, 50, 60, 0.4);
+}
+#r5 {
+	
+	height: 623px;
+	width: 145px;
+	float: right;
+	background-color: rgba(50, 50, 60, 0.4);
+}
+#m2 {
+	float: left;
+	margin-left: 50px;
+	margin-top: 20px;
+	color: #eee;
+	
+}
+#m3 {
+	float: left;
+	margin-left: 10px;
+	margin-top: 20px;
+	color: #080f75;
+}
+#s {
+	float: right;
+	color: #eee;
+	margin-top: 20px;
+	margin-right: 10px;
+	text-decoration: none;
+	
+}
+#hob1 {
+	margin: 10px auto;
+	margin-left: 20px;
+	height: 220px;
+	width: 270px;
+	float: left;
+	background-color: rgb(8, 15, 117);
+	
+}
+#hob0 {
+	margin: 10px auto;
+	height: 220px;
+	width: 270px;
+	float: left;
+	background-color: rgb(8, 15, 117);
+	
+}
+#b3 {
+	margin: 0 auto;
+	margin-top: 10px;
+	height: 150px;
+	width: 850px;
+	float: left;
+	background-color: rgb(61, 118, 211);
+}	
+#r2 {
+	margin-top: 10px;
+	margin-left: 32px;
+	margin-bottom: 30px;
+	height: 200px;
+	width: 310px;
+	float: left;
+	background-color: rgb(61, 118, 211);
+	
+}
+#r3 {
+	margin-top: 10px;
+	margin-left: 2px;
+	margin-bottom: 30px;
+	height: 200px;
+	width: 310px;
+	float: left;
+	background-color: rgb(61, 118, 211);
+
+}
+footer {
+	margin-top: 10px;
+	clear: both;
+	height: 60px;
+	
+}
+#m4 {
+	
+	
+	margin-top: 20px;
+	color: #eef;
+}
+#s1 {
+	padding: 1px;
+
+}
+#bigfoto {
+	margin: 10px auto;
+	height: 330px;
+	width: 370px;
+	float: left;
+	background-color: rgba(50, 50, 60, 0.4);
+}
+#biog {
+	margin: 10px auto;
+	margin-right: 10px;
+	height: 576px;
+	width: 465px;
+	float: right;
+	background-color: rgba(50, 50, 60, 0.4);
+}
+#biog1 {
+	margin: 10px auto;
+	margin-right: 10px;
+	height: 223px;
+	width: 365px;
+	float: left;
+	background-color: rgba(50, 50, 60, 0.4);
+}
+#inf {
+	margin: 10px auto;
+	margin-right: 10px;
+	height: 576px;
+	width: 845px;
+	float: left;
+	background-color: rgba(50, 50, 60, 0.4);
+}
+#c3 {
+	margin-top: 10px;
+	margin-left: 5px;
+	margin-bottom: 30px;
+	height: 577px;
+	width: 280px;
+	float: right;
+	background-color: rgba(50, 50, 60, 0.4);
+
+	
+}
+#c2 {
+	margin-top: 10px;
+	margin-left: 5px;
+	margin-bottom: 30px;
+	height: 577px;
+	width: 280px;
+	float: right;
+	background-color: rgba(50, 50, 60, 0.4);
+	
+}
+#zagl1 {
+	margin: 0 auto;
+	height: 37px;
+	width: 848px;
+	float: right;
+	background-color: rgba(50, 50, 60, 0.4);
+}
+#k1 {
+	margin: 0 auto;
+	height: 200px;
+	width: 240px;
+	float: left;
+	background-color: rgb(19, 109, 16);
+	background-image: url(http://www.autotravel.ua/images/doc/6/b/6bcac7e-3.jpg);
+	background-position: center;
+}
+#k2 {
+	margin: 0 auto;
+	height: 200px;
+	width: 750px;
+	float: right;
+	background-color: rgba(50, 50, 60, 0.4);
+}
+.text {
+	float: left;
+	color: #D3D3D3;
+	margin-top: 10px;
+	margin-left: 20px;
+	margin-right: 60px;
+	text-align: justify;
+	text-indent: 1.5em;
+}
+.texthobi {
+	float: left;
+	color: #D3D3D3;
+	margin-top: 1px;
+	margin-left: 20px;
+	margin-right: 20px;
+	text-align: justify;
+	text-indent: 1.5em;
+}
+.mrc__plugin_like_button {
+	margin-bottom: 20px;
+}
